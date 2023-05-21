@@ -1,0 +1,4 @@
+your encoded code is : 101100
+
+
+your decoded code is : diaa
